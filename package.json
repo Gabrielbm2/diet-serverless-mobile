@@ -1,7 +1,7 @@
 {
   "name": "diet-serverless-mobile",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -17,7 +17,7 @@
     "expo-status-bar": "~2.2.3",
     "lucide-react-native": "^0.525.0",
     "nativewind": "^4.1.23",
-    "prettier-plugin-tailwindcss": "^0.5.14",
+    "prettier-plugin-tailwindcss": "0.5.14",
     "react": "19.0.0",
     "react-native": "0.79.5",
     "react-native-reanimated": "~3.17.4",
