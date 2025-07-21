@@ -10,7 +10,7 @@ export function DateSwitcher() {
       </TouchableOpacity>
 
       <Text className="font-sans-medium text-base text-gray-700 tracking-[1.28px]">
-        TODAY, 20 DE JULY
+        HOJE, 20 DE JULHO
       </Text>
       
       <TouchableOpacity className="size-12 items-center justify-center">
